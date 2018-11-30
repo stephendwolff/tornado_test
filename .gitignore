@@ -2,6 +2,7 @@
 *.egg-info
 *.egg
 *.pyc
+.idea/
 .cache
 build
 dist
